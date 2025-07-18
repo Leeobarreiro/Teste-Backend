@@ -36,6 +36,8 @@
             <a href="{{ route('produtos.index') }}" class="btn btn-warning btn-lg">🛍 Produtos</a>
             <a href="{{ route('carrinho.index') }}" class="btn btn-success btn-lg">🛒 Carrinho</a>
             <a href="{{ route('produtos.create') }}" class="btn btn-primary btn-lg">📦 Cadastrar Produto</a>
+            <a href="{{ route('cupons.index') }}" class="btn btn-info btn-lg">🎟 Cupons</a>
+
         </div>
     </div>
 

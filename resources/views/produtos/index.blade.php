@@ -53,6 +53,7 @@
                                                     <button type="submit" class="btn btn-success btn-sm w-100">Adicionar ao carrinho</button>
                                                 </div>
                                             </form>
+                                            
                                         </li>
                                     @endforeach
                                 </ul>

@@ -1,7 +1,7 @@
 
 # 🛒 Mini ERP de Pedidos - Laravel
 
-Este é um sistema simples de pedidos com controle de produtos, cupons de desconto, carrinho de compras e envio de e-mail de confirmação de pedido. Foi desenvolvido como teste técnico para avaliação de habilidades em Laravel, MySQL e integração com serviços externos como Mailtrap e ViaCEP.
+Este é um sistema simples de pedidos com controle de produtos, cupons de desconto, carrinho de compras e envio de e-mail de confirmação de pedido. Foi desenvolvido como teste técnico para avaliação de habilidades em Laravel, MySQL e integração com serviços externos como ViaCEP.
 
 ---
 

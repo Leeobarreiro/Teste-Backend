@@ -133,19 +133,12 @@ Abra no navegador: [http://localhost:8000](http://localhost:8000)
 - 🏷️ **Identificação do cupom aplicado** e possibilidade de remoção
 - 📩 **Confirmação do pedido enviada por e-mail** com total e itens
 
----
-
-## 📸 Capturas de Tela
-
-> ⚠️ Inclua screenshots aqui, se desejar
-
----
 
 ## 👨‍💻 Autor
 
 **Leonardo Barreiro**  
 Desenvolvedor PHP / Laravel  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/leonardo-barreiro-b953bb150/)) • [GitHub]([https://github.com/seu-usuario](https://github.com/Leeobarreiro))
 
 ---
 

@@ -137,7 +137,8 @@ Abra no navegador: [http://localhost:8000](http://localhost:8000)
 ## 👨‍💻 Autor
 
 **Leonardo Barreiro**  
-Desenvolvedor PHP / Laravel  
+
+Desenvolvido com PHP / Laravel  
 ---
 
 ## 📄 Licença
